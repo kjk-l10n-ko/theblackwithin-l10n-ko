@@ -1,0 +1,412 @@
+[
+  {
+    "term": "Arne",
+    "ko": "아르네",
+    "kind": "character"
+  },
+  {
+    "term": "Boss",
+    "ko": "상사",
+    "kind": "character"
+  },
+  {
+    "term": "Cheyenne",
+    "ko": "샤이엔",
+    "kind": "character"
+  },
+  {
+    "term": "Fred",
+    "ko": "프레드",
+    "kind": "character"
+  },
+  {
+    "term": "Laila",
+    "ko": "라일라",
+    "kind": "character"
+  },
+  {
+    "term": "layla",
+    "ko": "라일라",
+    "kind": "character"
+  },
+  {
+    "term": "Stranger",
+    "ko": "낯선 사람",
+    "kind": "character"
+  },
+  {
+    "term": "Alarm",
+    "ko": "경보",
+    "kind": "item"
+  },
+  {
+    "term": "Antidepressants",
+    "ko": "항우울제",
+    "kind": "item"
+  },
+  {
+    "term": "Axe",
+    "ko": "도끼",
+    "kind": "item"
+  },
+  {
+    "term": "Battery",
+    "ko": "배터리",
+    "kind": "item"
+  },
+  {
+    "term": "Cabinet",
+    "ko": "찬장",
+    "kind": "item"
+  },
+  {
+    "term": "Cameroid",
+    "ko": "카메로이드",
+    "kind": "item"
+  },
+  {
+    "term": "code",
+    "ko": "코드",
+    "kind": "item"
+  },
+  {
+    "term": "Door",
+    "ko": "문",
+    "kind": "item"
+  },
+  {
+    "term": "Drawer",
+    "ko": "서랍",
+    "kind": "item"
+  },
+  {
+    "term": "Flashlight",
+    "ko": "손전등",
+    "kind": "item"
+  },
+  {
+    "term": "Fuse",
+    "ko": "퓨즈",
+    "kind": "item"
+  },
+  {
+    "term": "gas",
+    "ko": "가스",
+    "kind": "item"
+  },
+  {
+    "term": "Glowstick",
+    "ko": "야광봉",
+    "kind": "item"
+  },
+  {
+    "term": "Hammer",
+    "ko": "망치",
+    "kind": "item"
+  },
+  {
+    "term": "Keycard",
+    "ko": "키카드",
+    "kind": "item"
+  },
+  {
+    "term": "Ladder",
+    "ko": "사다리",
+    "kind": "item"
+  },
+  {
+    "term": "Lighter",
+    "ko": "라이터",
+    "kind": "item"
+  },
+  {
+    "term": "Lockpick",
+    "ko": "락픽",
+    "kind": "item"
+  },
+  {
+    "term": "Mokoko",
+    "ko": "모코코",
+    "kind": "item"
+  },
+  {
+    "term": "Night Vision",
+    "ko": "야간 투시",
+    "kind": "item"
+  },
+  {
+    "term": "Painkiller",
+    "ko": "진통제",
+    "kind": "item"
+  },
+  {
+    "term": "Painting",
+    "ko": "그림",
+    "kind": "item"
+  },
+  {
+    "term": "Password",
+    "ko": "비밀번호",
+    "kind": "item"
+  },
+  {
+    "term": "petrol",
+    "ko": "휘발유",
+    "kind": "item"
+  },
+  {
+    "term": "Photo",
+    "ko": "사진",
+    "kind": "item"
+  },
+  {
+    "term": "Pistol",
+    "ko": "권총",
+    "kind": "item"
+  },
+  {
+    "term": "Sliding Door",
+    "ko": "미닫이문",
+    "kind": "item"
+  },
+  {
+    "term": "Torch",
+    "ko": "횃불",
+    "kind": "item"
+  },
+  {
+    "term": "Torch Oil",
+    "ko": "횃불 기름",
+    "kind": "item"
+  },
+  {
+    "term": "Valve",
+    "ko": "밸브",
+    "kind": "item"
+  },
+  {
+    "term": "Corridor",
+    "ko": "복도",
+    "kind": "place"
+  },
+  {
+    "term": "Lighthouse",
+    "ko": "등대",
+    "kind": "place"
+  },
+  {
+    "term": "Living room",
+    "ko": "거실",
+    "kind": "place"
+  },
+  {
+    "term": "Contract",
+    "ko": "계약",
+    "kind": "theme"
+  },
+  {
+    "term": "Crow",
+    "ko": "까마귀",
+    "kind": "theme"
+  },
+  {
+    "term": "Door of Dreams",
+    "ko": "꿈의 문",
+    "kind": "theme"
+  },
+  {
+    "term": "Dream",
+    "ko": "꿈",
+    "kind": "theme"
+  },
+  {
+    "term": "green light",
+    "ko": "초록빛",
+    "kind": "theme"
+  },
+  {
+    "term": "Ritual",
+    "ko": "의식",
+    "kind": "theme"
+  },
+  {
+    "term": "The Black Within",
+    "ko": "검은 내면",
+    "kind": "theme"
+  },
+  {
+    "term": "The Green Light",
+    "ko": "초록빛",
+    "kind": "theme"
+  },
+  {
+    "term": "Apply",
+    "ko": "적용",
+    "kind": "ui"
+  },
+  {
+    "term": "Borderless",
+    "ko": "테두리 없음",
+    "kind": "ui"
+  },
+  {
+    "term": "Continue",
+    "ko": "계속",
+    "kind": "ui"
+  },
+  {
+    "term": "Dialogue Volume",
+    "ko": "대사 볼륨",
+    "kind": "ui"
+  },
+  {
+    "term": "Diary",
+    "ko": "일기",
+    "kind": "ui"
+  },
+  {
+    "term": "Effects Volume",
+    "ko": "효과음 볼륨",
+    "kind": "ui"
+  },
+  {
+    "term": "Equipment",
+    "ko": "장비",
+    "kind": "ui"
+  },
+  {
+    "term": "Examine",
+    "ko": "조사",
+    "kind": "ui"
+  },
+  {
+    "term": "Fullscreen",
+    "ko": "전체 화면",
+    "kind": "ui"
+  },
+  {
+    "term": "Game Loaded",
+    "ko": "게임 불러옴",
+    "kind": "ui"
+  },
+  {
+    "term": "Game Saved",
+    "ko": "게임 저장됨",
+    "kind": "ui"
+  },
+  {
+    "term": "Health",
+    "ko": "체력",
+    "kind": "ui"
+  },
+  {
+    "term": "Inspect",
+    "ko": "조사",
+    "kind": "ui"
+  },
+  {
+    "term": "Interact",
+    "ko": "상호작용",
+    "kind": "ui"
+  },
+  {
+    "term": "Inventory",
+    "ko": "인벤토리",
+    "kind": "ui"
+  },
+  {
+    "term": "Item",
+    "ko": "아이템",
+    "kind": "ui"
+  },
+  {
+    "term": "Load Game",
+    "ko": "게임 불러오기",
+    "kind": "ui"
+  },
+  {
+    "term": "Loading",
+    "ko": "로딩",
+    "kind": "ui"
+  },
+  {
+    "term": "Main Menu",
+    "ko": "메인 메뉴",
+    "kind": "ui"
+  },
+  {
+    "term": "Master Volume",
+    "ko": "마스터 볼륨",
+    "kind": "ui"
+  },
+  {
+    "term": "Music Volume",
+    "ko": "음악 볼륨",
+    "kind": "ui"
+  },
+  {
+    "term": "New Game",
+    "ko": "새 게임",
+    "kind": "ui"
+  },
+  {
+    "term": "Objective",
+    "ko": "목표",
+    "kind": "ui"
+  },
+  {
+    "term": "Photo Album",
+    "ko": "사진첩",
+    "kind": "ui"
+  },
+  {
+    "term": "Quit Game",
+    "ko": "게임 종료",
+    "kind": "ui"
+  },
+  {
+    "term": "Resume Game",
+    "ko": "게임 계속하기",
+    "kind": "ui"
+  },
+  {
+    "term": "Screen Mode",
+    "ko": "화면 모드",
+    "kind": "ui"
+  },
+  {
+    "term": "Screen Resolution",
+    "ko": "화면 해상도",
+    "kind": "ui"
+  },
+  {
+    "term": "Security",
+    "ko": "보안",
+    "kind": "ui"
+  },
+  {
+    "term": "Settings",
+    "ko": "설정",
+    "kind": "ui"
+  },
+  {
+    "term": "Show FPS",
+    "ko": "FPS 표시",
+    "kind": "ui"
+  },
+  {
+    "term": "Subtitles",
+    "ko": "자막",
+    "kind": "ui"
+  },
+  {
+    "term": "Tip",
+    "ko": "팁",
+    "kind": "ui"
+  },
+  {
+    "term": "Windowed",
+    "ko": "창 모드",
+    "kind": "ui"
+  }
+]

@@ -1,0 +1,9 @@
+slug = "theblackwithin"
+steam_appid = 2372870
+adapter = "ue_locres"
+track = "ue-pak"
+pipeline_repo = "/mnt/h/02_Workspace/40_WSL/kjk-l10n-ko/tools-l10n-ko"
+pipeline_ref = "7d4660974a0643f5d786334376ea9b15a043fded"
+game = "TheBlackWithin"
+source = "/mnt/s/Installation/Game/the-black-within-windows"
+font = "pretendard"
